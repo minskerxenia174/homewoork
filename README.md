@@ -12,4 +12,4 @@
 2. Spanish
   + interesting
   + hard
-###### [HSE](www.hse.ru)
+###### [HSE](https://www.hse.ru/)
